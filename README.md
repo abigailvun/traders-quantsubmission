@@ -30,7 +30,7 @@ Ensure you have Python installed, then install the required dependencies:
 pip install massive-sdk fredapi numpy pandas scipy yfinance python-dotenv
 ```
 
-## 5. Assistance and Source Disclosure
+## Assistance and Source Disclosure
 
 **Academic papers consulted:**
 * Black, F., & Scholes, M. (1973). The Pricing of Options and Corporate Liabilities. *Journal of Political Economy*, 81(3), 637-654.
