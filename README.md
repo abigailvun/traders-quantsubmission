@@ -28,7 +28,7 @@ Clone this repository to your local environment.
 Ensure you have Python installed, then install the required dependencies:
 ```bash
 pip install massive-sdk fredapi numpy pandas scipy yfinance python-dotenv
-
+```
 
 ## 5. Assistance and Source Disclosure
 
